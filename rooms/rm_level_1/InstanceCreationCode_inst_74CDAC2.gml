@@ -1,0 +1,1 @@
+text = "Hover mouse over sewers to stop the toxins.";

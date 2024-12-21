@@ -1,0 +1,1 @@
+image_index = floor(5* min(alarm[0],sec/6) / (sec/6));

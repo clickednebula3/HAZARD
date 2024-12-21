@@ -1,0 +1,1 @@
+text = "Thank You for Playing!!\n[F5] To restart game!\n[PageUp] To go to Sandbox mode!"

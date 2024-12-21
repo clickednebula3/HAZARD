@@ -1,0 +1,1 @@
+text = "Hold left click to hold the cube.";
